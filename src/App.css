@@ -1,0 +1,7 @@
+.main-container {
+    padding: 3rem;
+    width: calc(100vw - 700px);
+    height: 100vh;
+    overflow-y: auto;
+    scrollbar-width: none;
+}
